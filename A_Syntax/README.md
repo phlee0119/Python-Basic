@@ -22,3 +22,7 @@
     --> 函式 : abs()、 divmod()、 max()、 min()、 pow()、 round()
 
     --> math 函式 : ceil()、 gcd()、 sin()、 pi
+
+# D_Formatted Output
+
+    --> 函式 : str.format()
