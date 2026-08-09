@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Aug  9 16:56:24 2026
+Created on Aug 10 2026
 
-@author: User
+@author: Lee, Pin-Hua
 """
 
 tempC = eval( input("請輸入攝氏溫度值 : ") )
