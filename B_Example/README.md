@@ -1,24 +1,13 @@
-# A_Variables and Constants_1
-   --> 數值型態 : int、 float、 bool
+# 0_Test
 
-   --> 字串型態 : str
+    --> 例題 : 嘗試撰寫具有輸入和輸出功能的程式。
 
-   --> 函式 :  print()、 type()、 ord()、 chr()
+# 1_BMI
 
-# B_Variables and Constants_2
+    --> 例題 : 請撰寫一程式，讓使用者輸入身高 ( cm )、 體重 ( kg )，之後輸出此人的 BMI 值。
 
-   --> 指定運算子 ( = )
+    --> 函式 : eval()
 
-   --> 函式 : int()、 input()、 print( value, ..., sep = ' ', end = '\n', file = sys.stdout )
+# 2_Temperature
 
-# C_Variables and Constants_3
-
-   --> 算數運算子、 比較運算子、 邏輯運算子、 指派運算子
-
-   --> 匯入函式庫 : import
-
-   --> 函式庫 : math
-
-   --> 函式 : abs()、 divmod()、 max()、 min()、 pow()、 round()
-
-   --> math 函式 : ceil()、 gcd()、 sin()、 pi
+    --> 例題 : 請撰寫一程式，讓使用者輸入攝氏溫度 ( 度C )，程式輸出華氏溫度 ( 度F )。
