@@ -26,3 +26,8 @@
 # D_Formatted Output
 
     --> 函式 : str.format()
+
+# E_If
+
+    --> if 判斷式 : 單向、 雙向、 多向、 巢狀
+    
